@@ -44,4 +44,4 @@ A full-stack app that connects a React frontend to an Express backend and Postgr
 
 - GitHub: https://github.com/StepLeonard
 - LinkedIn: https://www.linkedin.com/in/stephanieleonard716/
-- Portfolio: 
+- Portfolio: https://stepleonard-portfolio.netlify.app/

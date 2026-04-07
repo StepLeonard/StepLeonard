@@ -29,11 +29,11 @@ I build modern web apps with clean UI, responsive design, and full-stack functio
 
 ## Featured Projects
 
-### Bulldog Care App
-A full-stack app where users enter their bulldog’s information and get breed-specific care details from a Neon PostgreSQL database through an Express backend.
+### Volleypalooza
+Event landing page with signup form.
 
 ### Countries App
-A React app that displays countries, uses routing, and shows country detail pages.
+A React app that displays countries, uses routing, and shows country detail pages. Full-stack App.
 
 ### Food Truck App
 A full-stack app that connects a React frontend to an Express backend and PostgreSQL database.

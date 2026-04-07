@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React | JavaScript | Full-Stack Projects
 
-I build modern web apps with clean UI, responsive design, and full-stack functionality using React, JavaScript, Node.js, Express, PostgreSQL, and Neon.
+I build modern web apps with clean UI, responsive design, and full-stack functionality using React, JavaScript, Node.js, Express, and PostgreSQL. I'm dedicated to bulding innovative, high-quality projects and continuously expanding my portfolio, with a strong work ethic and a focus on delivering real, impactful solutions.
 
 ---
 

@@ -32,6 +32,9 @@ I build modern web apps with clean UI, responsive design, and full-stack functio
 ### Volleypalooza
 Event landing page with signup form.
 
+[🌐 Live Site](https://volleypalooza.netlify.app/)  
+[💻 GitHub Repo](https://github.com/StepLeonard/volleypalooza-site)
+
 ### Countries App
 A React app that displays countries, uses routing, and shows country detail pages. Full-stack App.
 

@@ -37,6 +37,8 @@ Event landing page with signup form.
 
 ### Countries App
 A React app that displays countries, uses routing, and shows country detail pages. Full-stack App.
+[🌐 Live Site](https://version-4-countries.netlify.app/) 
+[💻 GitHub Repo](https://github.com/StepLeonard/countries-app)
 
 ### Food Truck App
 A full-stack app that connects a React frontend to an Express backend and PostgreSQL database.

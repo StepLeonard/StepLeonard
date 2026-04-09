@@ -46,6 +46,12 @@ A full-stack app that connects a React frontend to an Express backend and Postgr
 
 ⚠️UNDER CONSTRUCTION⚠️
 
+### Extensions
+A responsive extension management dashboard featuring dynamic state handling, toggle functionality, and filtering (All, Active, Inactive). Designed with a reusable card-based component system and a clean, user-focused interface.
+
+[🌐 Live Site](https://extension-frontend.netlify.app/)  
+[💻 GitHub Repo](https://github.com/StepLeonard/extensions-project)
+
 ---
 
 ## Connect With Me

@@ -29,6 +29,12 @@ I build modern web apps with clean UI, responsive design, and full-stack functio
 
 ## Featured Projects
 
+### Product Feedback App
+Full-stack product feedback application where users can submit ideas, explore suggestions, and filter feedback by categories like UI, UX, Bug, Feature, and Enhancement. Designed to simulate a real-world feedback system for product teams.
+
+[🌐 Live Site](https://my-product-feedback-app.netlify.app/)  
+[💻 GitHub Repo](https://github.com/StepLeonard/product-feedback-app)
+
 ### Volleypalooza
 Event landing page with signup form.
 
@@ -41,10 +47,6 @@ A React app that displays countries, uses routing, and shows country detail page
 [🌐 Live Site](https://version-4-countries.netlify.app/)  
 [💻 GitHub Repo](https://github.com/StepLeonard/countries-app)
 
-### Product-Feed-Back-App
-A full-stack app that connects a React frontend to an Express backend and PostgreSQL database.
-
-⚠️UNDER CONSTRUCTION⚠️
 
 ### Extensions
 A responsive extension management dashboard featuring dynamic state handling, toggle functionality, and filtering (All, Active, Inactive). Designed with a reusable card-based component system and a clean, user-focused interface.

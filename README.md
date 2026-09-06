@@ -1,63 +1,49 @@
 # Hi, I'm Stephanie 👋
-
 ### Frontend Developer | React | JavaScript | Full-Stack Projects
-
 I build modern web apps with clean UI, responsive design, and full-stack functionality using React, JavaScript, Node.js, Express, and PostgreSQL. I'm dedicated to bulding innovative, high-quality projects and continuously expanding my portfolio, with a strong work ethic and a focus on delivering real, impactful solutions.
-
 ---
-
 ## Tech Stack
-
 ![HTML](https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=f97316)
 ![CSS](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css&logoColor=38bdf8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776ab)
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee)
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=22c55e)
 ![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
-
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0f172a?style=for-the-badge&logo=bitbucket&logoColor=2684ff)
+![Jira](https://img.shields.io/badge/Jira-0f172a?style=for-the-badge&logo=jira&logoColor=0052cc)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f05032)
 ---
-
 ## About Me
-
 - I build frontend and full-stack web apps
-- I work with React, JavaScript, Express, PostgreSQL, and Neon
+- I collaborate in Agile/Scrum environments using GitHub, Bitbucket, and Jira for version control and sprint tracking
 - I enjoy building clean, modern, user-friendly interfaces
-- I’m growing my portfolio and software engineering skills
-
+- I'm growing my portfolio and software engineering skills
 ---
-
 ## Featured Projects
-
+### API Security Scanner
+Full-stack tool that scans any public URL for common web/API security misconfigurations — missing security headers (HSTS, CSP, X-Frame-Options), lack of HTTPS enforcement, and exposed sensitive files like .env or .git/config. Includes a Jest test suite and a GitHub Actions CI pipeline that runs on every push.
+[💻 GitHub Repo](https://github.com/StepLeonard/api-security-scanner)
 ### Product Feedback App
 Full-stack product feedback application where users can submit ideas, explore suggestions, and filter feedback by categories like UI, UX, Bug, Feature, and Enhancement. Designed to simulate a real-world feedback system for product teams.
-
 [🌐 Live Site](https://my-product-feedback-app.netlify.app/)  
 [💻 GitHub Repo](https://github.com/StepLeonard/product-feedback-app)
-
 ### Volleypalooza
 Event landing page with signup form.
-
 [🌐 Live Site](https://volleypalooza.netlify.app/)  
 [💻 GitHub Repo](https://github.com/StepLeonard/volleypalooza-site)
-
 ### Countries App
 A React app that displays countries, uses routing, and shows country detail pages. Full-stack App.
-
 [🌐 Live Site](https://version-4-countries.netlify.app/)  
 [💻 GitHub Repo](https://github.com/StepLeonard/countries-app)
-
-
 ### Extensions
 A responsive extension management dashboard featuring dynamic state handling, toggle functionality, and filtering (All, Active, Inactive). Designed with a reusable card-based component system and a clean, user-focused interface.
-
 [🌐 Live Site](https://extension-frontend.netlify.app/)  
 [💻 GitHub Repo](https://github.com/StepLeonard/extensions-project)
-
 ---
-
 ## Connect With Me
-
 - GitHub: https://github.com/StepLeonard
 - LinkedIn: https://www.linkedin.com/in/stephanieleonard716/
 - Portfolio: https://stepleonard-portfolio.netlify.app/
